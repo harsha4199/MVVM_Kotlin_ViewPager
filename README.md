@@ -1,3 +1,3 @@
 # MVVM_Kotlin_ViewPager
 ation with viewpager, recyclerview, mvvm, coroutines
-<img width="357" alt="Screenshot 2023-05-05 at 1 33 04 AM" src="https://user-images.githubusercontent.com/71061989/236319209-df9a7d8a-9f64-41cb-8395-34f314f94705.png">
+<img width="361" alt="Screenshot 2023-05-05 at 1 32 21 AM" src="https://user-images.githubusercontent.com/71061989/236319398-2d50feed-1c9a-4a3f-a73f-3192d8c31843.png">
